@@ -1,0 +1,11 @@
+Python 2
+
+- it is realeased in 2010
+- it uses xRange() Funtion
+- print "Hello World!" // here, print is not considered as a function
+
+Python 3
+
+- it is released in 2014
+- it introduced Range() function
+- print is considered as a function, print("hello world!")
